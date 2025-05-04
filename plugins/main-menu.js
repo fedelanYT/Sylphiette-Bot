@@ -38,6 +38,8 @@ const defaultMenu = {
 「 ${wm} ㊎ 」\n
  ⏍ Hello @${m.sender.split`@`[0]}, ${ucpn}
 
+乂Holaa.puta/o👻!\n@user';
+
   乂 \`U  S  E  R\`
   
 🌸᭄ꦿ 🌴 \`Name :\` %name
